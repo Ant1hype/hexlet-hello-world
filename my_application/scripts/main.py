@@ -7,5 +7,5 @@ def main():
     test_function_2()
     test_function()
 
-
-main()
+if __name__ == "__main__":
+    main()
